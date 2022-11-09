@@ -1,0 +1,16 @@
+# Table of contents
+
+* [Intro to Gari Developer’s DAO](README.md)
+* [Joining the DAO](joining-the-dao.md)
+* [Contribution](contribution.md)
+* [Learning](learning.md)
+* [Fellowship & Internship Programs](fellowship-and-internship-programs/README.md)
+  * [Fellowship Program](fellowship-and-internship-programs/fellowship-program.md)
+  * [Internship Program](fellowship-and-internship-programs/internship-program.md)
+  * [SuperIntern Program](fellowship-and-internship-programs/superintern-program.md)
+* [Tools overview](tools-overview.md)
+* [Partnerships](partnerships.md)
+* [Recent Activities](recent-activities.md)
+* [GDD Gauntlet](gdd-gauntlet/README.md)
+  * [Tech Research Task](gdd-gauntlet/tech-research-task.md)
+  * [Gari User Research Task (Written/Video)](gdd-gauntlet/gari-user-research-task-written-video.md)
