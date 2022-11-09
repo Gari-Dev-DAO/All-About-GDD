@@ -1,3 +1,7 @@
+---
+description: 'GIT Book: https://gari-dev-dao.gitbook.io/all-about-gdd/'
+---
+
 # Intro to Gari Developer’s DAO
 
 **About GDD**
