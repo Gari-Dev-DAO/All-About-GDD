@@ -14,3 +14,4 @@
 * [GDD Gauntlet](gdd-gauntlet/README.md)
   * [Tech Research Task](gdd-gauntlet/tech-research-task.md)
   * [Gari User Research Task (Written/Video)](gdd-gauntlet/gari-user-research-task-written-video.md)
+* [GARI Network Innovation Challenge](gari-network-innovation-challenge.md)
