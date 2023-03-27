@@ -6,7 +6,7 @@ description: 'GIT Book: https://gari-dev-dao.gitbook.io/all-about-gdd/'
 
 **About GDD**
 
-GDD Is a Sub-DAO of GARI DAO Focus on creating & Engaging Web3 Developers to build on top of Chingari Platform & Explore new Technologies within the Whole Blockchain Ecosystem. GARI Dev DAO is funded by GARI Network to grow the Web3 community & GARI ecosystem to build on GARI Network.
+GDD Is a Sub-DAO of GARI DAO focused on creating & Engaging Web3 Developers to build on top of the Chingari Platform & Explore new Technologies within the Whole Blockchain Ecosystem. GARI Dev DAO is funded by GARI Network to grow the Web3 community & GARI ecosystem to build on GARI Network.
 
 ### **Mission**
 
